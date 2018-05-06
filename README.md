@@ -1,6 +1,6 @@
 # QnA-WebApp-using-Laravel_php
 Stackoverflow/Quora like website using php-laravel
-<p align='center'><img src="https://i.imgur.com/E9FIrxm.gif" title="source: imgur.com" /></p>
+<p align='center'><img src="https://i.imgur.com/OPSXPfI.gif" title="source: imgur.com" /></p>
 
 ## features :blue_book:
  1. This is a QnA website (I mage it like for healthcare communities)
