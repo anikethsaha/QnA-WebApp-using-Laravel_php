@@ -1,6 +1,7 @@
 # QnA-WebApp-using-Laravel_php
 Stackoverflow/Quora like website using php-laravel
-<img src="https://lh3.google.com/u/0/d/1Om_nxIBiRYsKobaCTDF_j0_DrO-ppxbQ=w1366-h623-iv1" />
+<p align='center'><img src="https://lh3.google.com/u/0/d/1Om_nxIBiRYsKobaCTDF_j0_DrO-ppxbQ=w1366-h623-iv1" title="source: imgur.com" /></p>
+
 ## features :blue_book:
  1. This is a QnA website (I mage it like for healthcare communities)
  2. featurs like *voting* :bar_chart: , *chat* :phone: , *posts* :flashlight: , *mobile-desktop responsive* :iphone: , *live searching*       :mag_right: , *notification* and also facebook like notification is coming soo too
