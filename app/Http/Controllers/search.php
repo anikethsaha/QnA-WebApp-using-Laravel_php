@@ -30,7 +30,7 @@ class search extends Controller
              foreach ($questions as $p )
               {
                  $output.='<li>
-                     <p><a href="question/'.$p->id.'">'.$p->title.'</a>in <span   ><strong style="color:#f7b632;"> Question </strong></span></p>
+                     <p><a href="question/'.$p->title.'">'.$p->title.'</a>in <span   ><strong style="color:#f7b632;"> Question </strong></span></p>
                    </li>';
              }
              $output.='  <div class="top-inner-result">
@@ -38,7 +38,7 @@ class search extends Controller
                </div>';
              foreach ($posts as $a) {
                $output.='<li>
-                   <p><a href="post/'.$a->id.'">'.$a->title.'</a>in <span  ><strong style="color:#024b68;"> Post </strong> </span></p>
+                   <p><a href="post/'.$a->title.'">'.$a->title.'</a>in <span  ><strong style="color:#024b68;"> Post </strong> </span></p>
                  </li>';
              }
 
