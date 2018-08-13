@@ -170,7 +170,7 @@ background-image: url("https://source.unsplash.com/OlZ1nWLEEgM/1600x900");
                  <div class="ca-item ca-item-1">
                <div class="ca-item-main" style="border:1px solid #e7e7e7;">
                 <div class="ca-icon"> </div>
-                <h3><a href="/post/{{ $p->id }}">{{$p->title}}</a></h3>
+                <h3><a href="/post/{{ $p->title }}">{{$p->title}}</a></h3>
                  <h4 >
                    <div class="">
                      <p  >{{$p->body  }}</p><span><strong>...</strong></span>
