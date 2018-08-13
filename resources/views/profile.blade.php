@@ -112,7 +112,7 @@ start of side div -->
 
          ?>
         <div class="ans-list-content">
-            <h4><a href="/question/{{ $que->id }}">{{ $current_que->title }}</a></h4>
+            <h4><a href="/question/{{ $que->title }}">{{ $current_que->title }}</a></h4>
           <span>&#9757;{{ $a->votes }}</span>
           @if($a->approved==1)
            <p class="approved-tag">Approved</p>
